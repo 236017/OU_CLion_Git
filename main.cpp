@@ -11,3 +11,4 @@ int main()
     std:: cout << "W drugim branchu 2 * 3 = " << Policz(2,3) <<std::endl;
     return 0;
 }
+
