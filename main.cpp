@@ -10,4 +10,5 @@ int main()
     std::cout << "Hello, World!" << std::endl;
     std:: cout << "W trzecim branchu 2 * 3 = " << Policz(2,3) <<std::endl;
     return 0;
+    
 }
